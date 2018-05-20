@@ -1,2 +1,2 @@
-# point-rule-engine
+# rule-engine-example
 
